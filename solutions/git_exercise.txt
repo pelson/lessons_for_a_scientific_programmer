@@ -1,0 +1,12 @@
+git branch my_euroscipy_group upstream/master
+
+... create the text file in euroscipy_2014/<YOUR USERNAME>.yaml ...
+
+git add euroscipy_2014/<YOUR USERNAME>.yaml
+
+git commit -m "Added my group."
+
+git push origin my_euroscipy_group
+
+... go to github and create a PR ...
+
