@@ -1,19 +1,23 @@
 .rendered_html {
     font-family: Georgia, serif;
-    font-size: 130%;
+    font-size: 190%;
     line-height: 1.5;
 }
 
-.input {
+div.text_cell_render {
+width : 100%;
+}
+
+input {
     width: 930px;
 }
 
 .inner_cell {
-    width: 800px;
+    width: 900px;
 }
 
 .code_cell {
-    width: 800px;
+    width: 900px;
 }
 
 .CodeMirror-sizer {
@@ -55,7 +59,7 @@ hr {
 }
 
 .CodeMirror-lines {
-    font-size: 110%;
+    font-size: 180%;
     line-height: 1.4em;
     font-family: DejaVu Sans Mono, Consolas, Ubuntu, monospace;
 }
