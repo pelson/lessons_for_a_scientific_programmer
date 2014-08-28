@@ -1,5 +1,7 @@
-Euroscipy 2014 tutorial
-=======================
+Lessons for a scientific programmer
+===================================
+
+Author: Philip Elson (@pelson)
 
 ## Abstract
 
@@ -26,5 +28,5 @@ people just use "{initial}{surname}"). Please follow https://help.github.com/art
 
 ## Notebooks
 The notebooks in this tutorial can all be seen on nbviewer.ipython.org:
- * http://nbviewer.ipython.org/github/pelson/euroscipy2014_tutorial/tree/master/
+ * Euroscipy 2014: http://nbviewer.ipython.org/github/pelson/lessons_for_a_scientific_programmer/tree/master/2014-euroscipy/00_intro.ipynb
 
